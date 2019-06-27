@@ -1,0 +1,1 @@
+# QFN48-nRF52811-Bluetooth-5.1-KiCad
