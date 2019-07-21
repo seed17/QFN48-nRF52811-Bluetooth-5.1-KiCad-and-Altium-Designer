@@ -8,8 +8,8 @@ Edited Altium Designer PCB [dc-dc schematic] as a dev board, 3D view: [![Altium3
 
 Edited Altium Designer PCB [dc-dc schematic] as a dev board, 2D view: [![Altium.png](https://i.postimg.cc/5N9n4qJ6/Altium.png)](https://postimg.cc/bdMQLnsh)
 
-Edited KiCad PCB [dc-dc schematic] as a dev board, 2D view: [![KiCad.png](https://i.postimg.cc/YqX8hG28/KiCad.png)](https://postimg.cc/jL7y1j7J)
+Edited KiCad PCB, 2D [![antenna.jpg](https://i.postimg.cc/zB9XjBJt/antenna.jpg)](https://postimg.cc/MMmSZzfV)
 
-Edited KiCad PCB [dc-dc schematic] as a dev board, 3D view: [![KiCad-3d.png](https://i.postimg.cc/FKSxWTyn/KiCad-3d.png)](https://postimg.cc/f3wXkjgx)
+Edited KiCad PCB, 3D [![antennagnd.jpg](https://i.postimg.cc/SQMKKWrw/antennagnd.jpg)](https://postimg.cc/xq9QxNBR)
 
 REFERENCE LAYOUT FOUND HERE [QFN48]: https://www.nordicsemi.com/?sc_itemid=%7B7CBDF55C-9745-4A7D-A491-5B66AE9454B6%7D
