@@ -1,0 +1,28 @@
+### Module positions - created on Thu 25 Jul 2019 20:19:27 EEST ###
+### Printed by Pcbnew version kicad 5.1.3-ffb9f22~84~ubuntu18.04.1
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                                                                                            Package                    PosX       PosY       Rot  Side
+C1        12pF                                                                                           CAPC1005X04L           134.9326   -96.4948   90.0000  top
+C2        12pF                                                                                           CAPC1005X04L           134.9326  -100.0508   90.0000  top
+C3        0.8pF                                                                                          CAPC1005X04L           139.5302  -100.7873   90.0000  top
+C4        100nF                                                                                          CAPC1005X04L           137.6506  -110.3122   90.0000  top
+C5        100nF                                                                                          CAPC1005X04L           143.6196  -107.8230   90.0000  top
+C6        Not_mounted                                                                                    CAPC1005X04L           137.8030   -99.6950   90.0000  top
+C7        100pF                                                                                          CAPC1005X04L           136.9140   -99.6950   90.0000  top
+C8        100nF                                                                                          CAPC1005X04L           134.9326  -100.9398   90.0000  top
+C9        4.7µF                                                                                          CAPC1608X06L           136.6092  -110.3122   90.0000  top
+C10       1.0µF                                                                                          CAPC1608X06L           131.7019  -107.7207   90.0000  top
+C11       12pF                                                                                           CAPC1005X04L           139.0730  -111.0234   90.0000  top
+C12       12pF                                                                                           CAPC1005X04L           142.2226  -112.4458   90.0000  top
+C13       Not_mounted                                                                                    CAPC1005X04L           132.9516  -105.7910   90.0000  top
+Cap_1     Not_mounted                                                                                    1206_cap_smd             										top
+Cap_2     Not_mounted                                                                                    1206_cap_smd             										top
+Cap_3     Not_mounted                                                                                    1206_cap_smd             										top
+Cap_4     Not_mounted                                                                                    1206_cap_smd             										top
+L2        10µH                                                                                           INDC1608X06L           134.6482  -107.2388   90.0000  top
+L3        15nH                                                                                           INDC1005X04L           132.5655  -108.4065   90.0000  top
+U1        nRF52811-QFAA-Multi-protocol_Bluetooth_Low_Energy,_IEEE_802.15.4,_ANT_and_2.4GHz               QFN40P600X600X90-48N   139.5302  -104.9782   90.0000  top
+X1        XTAL SMD 2016, 32MHz, Cl=8pF, Total Tol: ±40ppm                                                BT-XTAL_2016           134.9326   -98.2728   90.0000  top
+X2        XTAL SMD 3215, 32.768kHz, Cl=9pF, Total Tol: ±50ppm                                            XTAL_3215              139.9112  -112.4458   90.0000  top
+## End
