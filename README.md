@@ -13,3 +13,6 @@ Edited KiCad PCB, 2D [![antenna.jpg](https://i.postimg.cc/zB9XjBJt/antenna.jpg)]
 Edited KiCad PCB, 3D [![antennagnd.jpg](https://i.postimg.cc/SQMKKWrw/antennagnd.jpg)](https://postimg.cc/xq9QxNBR)
 
 REFERENCE LAYOUT FOUND HERE [QFN48]: https://www.nordicsemi.com/?sc_itemid=%7B7CBDF55C-9745-4A7D-A491-5B66AE9454B6%7D
+
+
+Questions? issues? email me: basilisvirus@hotmail.com
